@@ -26,3 +26,8 @@ You need to implement some libraries for arduino firebase communication.
 * firebase-arduino Library
 
 
+## System Architecture
+
+![alt text](https://github.com/AlperenKosem/Home-Automation-with-Mobile-App/blob/master/SystemArchitecture.png)
+
+
